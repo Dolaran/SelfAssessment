@@ -9,9 +9,9 @@
   - Garbage collection: 🖐️ used
   - Node.js LTS schedule:🖐️ used
   - I/O-bound, CPU-bound, memory-bound tasks
-  - Interactive applications (close to real-time): 👂 heard
+  - Interactive applications (close to real-time): 🎓 known
 - Modularity, layers and dependencies
-  - CommonJS modules: 👂 heard
+  - CommonJS modules: 🎓 known
   - ECMAScript modules: 👂 heard 
   - node:module: 🖐️ used
   - Caching in CJS and ESM: 🎓 known
@@ -24,38 +24,38 @@
   - Dependency injection: 👂 heard
   - DI containers: 👂 heard
   - Coupling and cohesion
-  - Framework agnostic approach
+  - Framework agnostic approach: 👂 heard
 - Environment
   - Command line arguments: 🖐️ used
   - Node.js CLI: 🖐️ used
-  - Process-based permissions
+  - Process-based permissions: 👂 heard
   - Graceful shutdown
   - Clustering: 🎓 known
-  - Watch filesystem changes with --watch
+  - Watch filesystem changes with --watch: 🎓 known
 - Internal API
-  - Streams API
-  - Web Streams API
-  - Crypto API
+  - Streams API: 🎓 known
+  - Web Streams API: 🖐️ used
+  - Crypto API: 👂 heard
   - Password hashing with node:crypto.scrypt
   - Web Crypto API
   - File system API: sync and async: 🎓 known
   - Copy folder recursively 
   - Worker threads
-  - Performance hooks
-  - Native fetch and nodejs/undici
-  - node:async_hooks
-  - AsyncLocalStorage
+  - Performance hooks: 👂 heard
+  - Native fetch and nodejs/undici: 👂 heard
+  - node:async_hooks: 👂 heard
+  - AsyncLocalStorage: 👂 heard
   - AsyncResource
   - Deprecated domain API: 🎓 known
   - Node.js single executable: 👂 heard
   - Stream back pressure
-  - SharedArrayBuffer
+  - SharedArrayBuffer: 👂 heard
   - node:worker_threads: 👂 heard
-  - node:child_process: 👂 heard
-  - MessageChannel, MessagePort
+  - node:child_process: 🎓 known
+  - MessageChannel, MessagePort: 🖐️ used
   - BroadcastChannel
   - Generating crypto random UUID
-  - node:url vs new URL : 🖐️ used
+  - node:url vs new URL: 🖐️ used
   - node:assert
   - Internationalization
   - Blob, File, Buffer, node:buffer: 🎓 known
@@ -63,18 +63,18 @@
 - Application structure and architecture
   - Isolation between layer
   - Multilayer approach
-  - Separation of concerns
+  - Separation of concerns: 👂 heard
   - Inversion of control
   - Dependency injection: 👂 heard
-  - GRASP
-  - SOLID: 🎓 known
+  - GRASP: 👂 heard
+  - SOLID: 🖐️ used
   - GoF patterns
-  - Distributed systems
+  - Distributed systems: 👂 heard
   - Highload applications
-  - Clean architecture: 👂 heard
+  - Clean architecture: 🖐️ used
   - DDD
   - Message Queue
-  - CQS
+  - CQS: 👂 heard
   - CQRS
   - Event sourcing
   - Load balancing
@@ -90,7 +90,7 @@
   - TCP/SSL: 🖐️ used
   - UDP: 🎓 known
   - TLS: 👂 heard
-  - Websocket: 🎓 known
+  - Websocket:🖐️ used
   - SSE
   - HTTP/3 (QUIC)
   - Long polling
@@ -106,18 +106,18 @@
   - Fetch API: : 🎓 known
   - IncomingMessage
   - SQL injection: 👂 heard
-  - noDelay
-  - keep-alive
+  - noDelay: 🎓 known
+  - keep-alive: 🎓 known
   - ALPN
   - SNI callback
-  - SSL certificates: 🎓 known
-  - Protocol agnostic approach
+  - SSL certificates: 🖐️ used
+  - Protocol agnostic approach: 🖐️ used
 - Technique and tools
-  - Native test runner:🎓 known
-  - Logging: 🎓 known
+  - Native test runner: 🖐️ used
+  - Logging: 🖐️ used
   - Application configuring: 🖐️ used
-  - Testing: 👂 heard
-  - CI/CD: 👂 heard
+  - Testing: 🖐️ used
+  - CI/CD: 🖐️ used
   - Readable: 🖐️ used
   - Writable: 🖐️ used
   - Transform
@@ -125,9 +125,9 @@
   - Buffer: 🖐️ used
   - Console: 🖐️ used
   - Inspector: 🖐️ used
-  - Reliability: 🎓 known
+  - Reliability: 🖐️ used
   - Quality
-  - Availability: 🎓 known
+  - Availability: 🖐️ used
   - Flexibility: 🎓 known
 - Data access
   - Data access layer
@@ -153,7 +153,7 @@
 - Integrations and bindings
   - Native addons
   - C and C++ addons
-  - Rust addons
+  - Rust addons: 👂 heard
   - Zig addons
   - NAN (Native Abstractions for Node.js)
   - Node-API (formerly N-API)

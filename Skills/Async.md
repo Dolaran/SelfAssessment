@@ -22,17 +22,17 @@
   - Thread
   - Process
 - Async contracts
-  - Callbacks: 👂 heard
-  - Callback-last-error-first: 👂 heard
+  - Callbacks: 🎓 known
+  - Callback-last-error-first: 🎓 known
   - Thenable
-  - Promise: 👂 heard
+  - Promise: 🎓 known
   - Async/await: 🎓 known
   - Future
   - Deferred
   - Sync generator: 👂 heard
   - Async Generator: 👂 heard
   - Async Iterator: 👂 heard
-  - Event: 👂 heard
+  - Event: 🎓 known
   - Coroutine
   - Goroutine
   - Signal
@@ -47,7 +47,7 @@
   - callbacks compose
   - async compose
 - Async abstractions interfaces
-  - EventEmitter: 👂 heard
+  - EventEmitter: 🎓 known
   - Observable/Observer
   - Readable
   - Writable
@@ -70,12 +70,12 @@
   - worker_threads
   - Atomics
   - High resolution clock
-  - Callback hell
-  - Promise hell
+  - Callback hell: 👂 heard
+  - Promise hell: 👂 heard
   - ref() and unref(): 👂 heard
   - Error handling in async code
-  - Better stack traces with return await
-  - JSON: streaming serialization
+  - Better stack traces with return await: 👂 heard
+  - JSON: streaming serialization: 👂 heard
   - promisify
   - callbackify
   - AsyncLocalStorage

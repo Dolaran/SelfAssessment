@@ -14,13 +14,13 @@
   - method: 🖐️ used
   - class: 🖐️ used
   - prototype: 🖐️ used
-  - event: : 🎓 known
+  - event: 🎓 known
   - type: 🖐️ used
   - primitive types: 🖐️ used
   - reference types: 🖐️ used
   - flag: 🖐️ used
   - lexical scope
-  - code block
+  - code block: 🎓 known
   - conditions
   - loops: 🖐️ used
   - assignment: 🖐️ used
@@ -46,8 +46,8 @@
   - compose: 🖐️ used
   - pipe: 🖐️ used
   - memoize: 🖐️ used
-  - wrapper
-  - functor
+  - wrapper: 🎓 known
+  - functor: 🎓 known
   - monad
   - monoid
   - generator: 🖐️ used
@@ -89,9 +89,9 @@
   - antipatterns: 🖐️ used
   - paradigm: 🖐️ used
   - algorithm: 🖐️ used
-  - magic numbers
+  - magic numbers: 🖐️ used
   - hardcode: 🎓 known
-  - complexity
+  - complexity: 🖐️ used
   - decomposition: 🎓 known
   - spaghetti: 🎓 known
   - silver bullet: 👂 heard

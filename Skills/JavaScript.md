@@ -9,8 +9,8 @@
   - bind: 👂 heard
   - apply
   - instanceof
-  - ...spread
-  - ...rest
+  - ...spread: 🎓 known
+  - ...rest: 🎓 known
   - typeof: 🖐️ used 
   - destructuring
   - generator: 🖐️ used 
@@ -25,21 +25,21 @@
   - window: 👂 heard
   - getters and setters: 🖐️ used 
   - __proto__
-  - prototype: 🎓 known
-  - equality operators: 🎓 known
-  - logical operators: 🎓 known
-  - bitwise operators: 🎓 known
-  - ternary operator: 🎓 known
-  - void: 🎓 known
+  - prototype: 🖐️ used 
+  - equality operators: 🖐️ used 
+  - logical operators: 🖐️ used 
+  - bitwise operators: 🖐️ used 
+  - ternary operator: 🖐️ used
+  - void: 🖐️ used 
   - yield
-  - await: 🎓 known
-  - template literal
+  - await: 🖐️ used 
+  - template literal: 🎓 known
   - strict mode: 🖐️ used 
   - delete
-  - in
+  - in: 🖐️ used 
   - super
-  - Symbol: 🎓 known
-  - Reflect
+  - Symbol: 🖐️ used 
+  - Reflect: 🎓 known
 - Statements
   - if: 🖐️ used 
   - while: 🖐️ used 
@@ -69,17 +69,17 @@
   - Array: 🖐️ used 
   - mixin: 👂 heard
   - extend: 👂 heard
-  - typed arrays: 🎓 known
-  - Map: 🎓 known
+  - typed arrays: 🖐️ used
+  - Map: 🖐️ used
   - Set: 🖐️ used 
   - undefined: 🖐️ used 
   - null: 🖐️ used 
   - Proxy: 🖐️ used 
-  - weak collections
-  - timers
-  - EventEmitter
+  - weak collections: 👂 heard
+  - timers: 🎓 known
+  - EventEmitter: 👂 heard
   - RegExp: 🖐️ used 
-  - Date
+  - Date: 🖐️ used
   - BigInt
 - Infrastructure
   - V8
