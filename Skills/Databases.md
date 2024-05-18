@@ -1,61 +1,61 @@
 ## Databases
 
 - Theory and concepts
-  - Data types u
+  - Data types: 🖐️ used
   - Performance tuning
-  - Migrations u
-  - Schema versioning k
-  - Backup and recovery k
-  - Database scalability k
-  - Relational databases h
+  - Migrations: 🖐️ used
+  - Schema versioning: 🎓 known
+  - Backup and recovery: 🎓 known
+  - Database scalability: 🎓 known
+  - Relational databases: 👂 heard
   - Key-value store
   - Tuple store
-  - Graph databases h
-  - Object databases h
-  - Column databases h
-  - Navigational databases h
-  - Hierarchical databases h
+  - Graph databases: 👂 heard
+  - Object databases: 👂 heard
+  - Column databases: 👂 heard
+  - Navigational databases: 👂 heard
+  - Hierarchical databases: 👂 heard
   - In-memory databases
   - Inverted index
-  - Data control language (DCL) h
-  - Data definition language (DDL) h
-  - Data manipulation language (DML) h
-  - Data query language (DQL) k
+  - Data control language (DCL): 👂 heard
+  - Data definition language (DDL): 👂 heard
+  - Data manipulation language (DML): 👂 heard
+  - Data query language (DQL): 🎓 known
 - Relational
   - Entity-Relationship Diagram
   - Normal forms
   - Indexing
-  - Primary keys h
-  - Foreign keys h
-  - Transactions h
-  - Views h
+  - Primary keys: 👂 heard
+  - Foreign keys: 👂 heard
+  - Transactions: 👂 heard
+  - Views: 👂 heard
   - Subqueries
-  - Stored procedures h
-  - SQL functions h
+  - Stored procedures: 👂 heard
+  - SQL functions: 👂 heard
   - Materialized views
   - Replications
   - Virtualization
 - SQL
-  - `SELECT` h
-  - `INSERT` h
-  - `UPDATE` h
-  - `DELETE` h
+  - `SELECT`: 👂 heard
+  - `INSERT`: 👂 heard
+  - `UPDATE`: 👂 heard
+  - `DELETE`: 👂 heard
   - `LIMIT`
   - `OFFSET`
-  - `ORDER BY` h
-  - `GROUP BY` h
+  - `ORDER BY`: 👂 heard
+  - `GROUP BY`: 👂 heard
   - `HAVING`
-  - `EXISTS` h
-  - `JOIN` h
+  - `EXISTS`: 👂 heard
+  - `JOIN`: 👂 heard
   - `INNER JOIN`
   - `LEFT JOIN`
   - `RIGHT JOIN`
   - `UNION`
   - `DISTINCT`
-  - `WHERE` h
-  - `LIKE` h
-  - `IN` h
-  - `BETWEEN` h
+  - `WHERE`: 👂 heard
+  - `LIKE`: 👂 heard
+  - `IN`: 👂 heard
+  - `BETWEEN`: 👂 heard
   - `CREATE TABLE`
   - `ALTER TABLE`
   - `DROP TABLE`
@@ -64,31 +64,31 @@
   - `CHECK`
   - `DEFAULT`
   - `INDEX`
-  - `UNIQUE` h
+  - `UNIQUE`: 👂 heard
   - `GRANT`
   - `REVOKE`
   - `DENY`
   - `EXPLAIN`
 - Engines
-  - PostgreSQL h
-  - Oracle h
-  - MySQL h
+  - PostgreSQL: 👂 heard
+  - Oracle: 👂 heard
+  - MySQL: 👂 heard
   - MariaDB
-  - MS SQL Server h
+  - MS SQL Server: 👂 heard
   - Redis
   - Rabbit
-  - MongoDB h
+  - MongoDB: 👂 heard
   - Memcached
   - Riak
   - DB2
   - SQLite
   - DynamoDB
-  - Firebase h
+  - Firebase: 👂 heard
 - Data engineering
   - Data warehousing
   - Business intelligence
-  - Big data h
-  - Data analysis h
-  - AI tools h
-  - Cloud databases h
-  - Data Visualization h
+  - Big data: 👂 heard
+  - Data analysis: 👂 heard
+  - AI tools: 👂 heard
+  - Cloud databases: 👂 heard
+  - Data Visualization: 👂 heard

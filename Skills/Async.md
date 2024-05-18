@@ -1,38 +1,38 @@
 ## Asynchronous programming
 
 - Theory
-  - Event loop k
-  - `try..catch` u
+  - Event loop: 🎓 known
+  - `try..catch`: 🖐️ used
   - Non-blocking
   - Async I/O
   - Thread pool
-  - Pattern Reactor k
+  - Pattern Reactor: 🎓 known
   - CAS operations
   - epoll
   - kqueue
-  - Completion ports h
-  - Event ports h
+  - Completion ports: 👂 heard
+  - Event ports: 👂 heard
   - libuv
   - Race conditions
-  - Dead locks h
+  - Dead locks: 👂 heard
   - Live locks
-  - Concurrent programming u
-  - Parallel programming h
-  - Actor Model k
-  - Thread h
-  - Process k
+  - Concurrent programming: 🖐️ used
+  - Parallel programming: 👂 heard
+  - Actor Model: 🎓 known
+  - Thread: 👂 heard
+  - Process: 🎓 known
 - Async contracts
-  - Callbacks k
-  - Callback-last-error-first h
+  - Callbacks: 🎓 known
+  - Callback-last-error-first: 👂 heard
   - Thenable
-  - Promise k
-  - Async/await k
+  - Promise: 🎓 known
+  - Async/await: 🎓 known
   - Future
   - Deferred
-  - Sync generator h
-  - Async Generator h
-  - Async Iterator h
-  - Event k
+  - Sync generator: 👂 heard
+  - Async Generator: 👂 heard
+  - Async Iterator: 👂 heard
+  - Event: 🎓 known
   - Coroutine
   - Goroutine
   - Signal
@@ -47,16 +47,16 @@
   - Callbacks compose
   - Async compose
 - Async abstractions interfaces
-  - EventEmitter k
+  - EventEmitter: 🎓 known
   - Observable/Observer
   - Readable
   - Writable
   - Transform
-  - Async Pool h
-  - Async Queue h
-  - Async Collector h
-  - Semaphore h
-  - Mutex h
+  - Async Pool: 👂 heard
+  - Async Queue: 👂 heard
+  - Async Collector: 👂 heard
+  - Semaphore: 👂 heard
+  - Mutex: 👂 heard
   - Spin Lock
 - JavaScript & Node.js specific
   - Timers
@@ -68,12 +68,12 @@
   - Promise double resolve
   - Atomics
   - High resolution clock
-  - Callback hell h
-  - Promise hell h
-  - ref() and unref() k
+  - Callback hell: 👂 heard
+  - Promise hell: 👂 heard
+  - ref() and unref(): 🎓 known
   - Error handling in async code
-  - Better stack traces with return await h
-  - JSON streaming serialization h
+  - Better stack traces with return await: 👂 heard
+  - JSON streaming serialization: 👂 heard
   - AsyncLocalStorage
   - AsyncResource
 - Techniques
