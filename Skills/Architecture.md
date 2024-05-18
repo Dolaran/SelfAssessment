@@ -1,39 +1,39 @@
 ## Architecture
 
 - Application structure
-  - Modularity
-  - Components
-  - Directories
-  - GRASP
-  - SOLID
+  - Modularity: 🖐️ used
+  - Components: 🖐️ used
+  - Directories: 🖐️ used
+  - GRASP: 👂 heard
+  - SOLID: 🖐️ used
   - GoF patterns
   - CQS
   - Leaking abstractions
-  - Multiparadigm code
+  - Multiparadigm code: 👂 heard
   - Contract programming
   - Platform-agnostic
   - Transport-agnostic
   - Framework-agnostic
-  - Code coverage
+  - Code coverage: 🎓 known
   - Cohesion
   - Coupling
   - Cyclomatic complexity
-  - Reliability
-  - Quality
-  - Availability
-  - Flexibility
+  - Reliability: 👂 heard
+  - Quality: 👂 heard
+  - Availability: 🎓 known
+  - Flexibility: 🎓 known
   - Law of Demeter (LoD)
 - Application architecture
   - Isolation between layer
-  - Domain-specific language (DSL)
+  - Domain-specific language (DSL): 👂 heard
   - System vs applied code
   - Multilayer approach
-  - Hexagonal architecture
+  - Hexagonal architecture: 👂 heard
   - Separation of concerns (SoC)
-  - Metaprogramming
+  - Metaprogramming: 👂 heard
   - Inversion of control (IoC)
   - Dependency injection (DI)
-  - Clean architecture
+  - Clean architecture: 👂 heard
   - Domain-driven design (DDD)
   - Pub/sub
   - Message brocker
@@ -41,17 +41,17 @@
   - Service locator
   - Message Queue (MQ)
   - CQRS
-  - Event sourcing
-  - E-R data modeling
-  - Entity-relationship diagram
+  - Event sourcing: 👂 heard
+  - E-R data modeling: 🖐️ used
+  - Entity-relationship diagram: 🖐️ used
   - IDEF1X
-  - UML
+  - UML: 🖐️ used
   - Work breakdown structure
   - Budget estimation
   - Distributed systems
   - High-intensive computing
   - Load balancing
-  - Gateways
+  - Gateways: 👂 heard
   - On-premises
   - IaaS
   - PaaS
@@ -64,15 +64,15 @@
   - A software requirements specification (SRS)
   - Solution visions
   - Solution capabilities
-  - System design
-  - Process modelling
-  - Data modelling
-  - Solution components
-  - Risk assessment
+  - System design: 👂 heard
+  - Process modelling: 👂 heard
+  - Data modelling: 👂 heard
+  - Solution components: 👂 heard
+  - Risk assessment: 👂 heard
   - Non Functional Requirements (NFR)
   - Clouds
   - BPMN
-  - Low-code
+  - Low-code: 👂 heard
   - No-code
   - Metric
   - Metric abuse
@@ -80,16 +80,16 @@
   - CAP theorem
   - Single source of truth (SSOT)
 - Enterprise architecture
-  - Understanding business needs
-  - Enterprise strategy
+  - Understanding business needs: 🎓 known
+  - Enterprise strategy: 👂 heard
   - Integration with subsystems
   - Enterprise vision
   - Enterprise capabilities
   - Project scope
-  - Enterprise service bus
-  - Service-oriented architecture
-  - Microservices
-  - Process choreography
+  - Enterprise service bus: 👂 heard
+  - Service-oriented architecture: 👂 heard
+  - Microservices: 👂 heard
+  - Process choreography: 👂 heard
   - Service orchestration
   - Data warehouse
   - Business Intelligence
